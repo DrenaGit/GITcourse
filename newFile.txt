@@ -1,1 +1,2 @@
-t is still snowing (just introducing changes in file).
+Alex has a cat (Second change)
+It is still snowing (just introducing changes in file).

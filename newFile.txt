@@ -1,2 +1,3 @@
 Alex has a cat (Second change)
 It is still snowing (just introducing changes in file).
+Another comment via GitHub (third commit).
